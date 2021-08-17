@@ -16,7 +16,9 @@ public class Main {
         int summa;
 
         Scanner scan = new Scanner(System.in);
+        System.out.println("inter first nun");
         a = scan.nextInt();
+        System.out.println("inter second num");
         b = scan.nextInt();
         summa = sum(a, b);
         System.out.println(summa);
