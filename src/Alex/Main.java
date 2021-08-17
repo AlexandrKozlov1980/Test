@@ -21,6 +21,7 @@ public class Main {
         System.out.println("inter second num");
         b = scan.nextInt();
         summa = sum(a, b);
+        System.out.println("summa");
         System.out.println(summa);
 
 
